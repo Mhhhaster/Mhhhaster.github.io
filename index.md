@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Welcome to My Personal Pages
 
-You can use the [editor on GitHub](https://github.com/Mhhhaster/Mhhhaster.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 廖晏祯（Yanzhen Liao）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Leetcode](https://leetcode.cn/u/mhhhaster/)
+* [B站](https://space.bilibili.com/4844645)
+* [github](https://github.com/Mhhhaster)
+* 简历
 
-### Markdown
+## 关于我
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+22岁，是研一学生(将于2024年6月毕业), 目前就读于[中国科学技术大学](https://www.ustc.edu.cn/) [大数据学院 ](https://sds.ustc.edu.cn/)计算机技术专业。 在此之前, 我于2017年6月在 [天津大学](http://www.tju.edu.cn/) [环境科学与工程学院](http://tjusee.tju.edu.cn/) 环境科学专业获得了学士学位。
 
-```markdown
-Syntax highlighted code block
+我的研究兴趣主要包括: 轨迹预测，目标检测与图像分割，文本情感挖掘等。
 
-# Header 1
-## Header 2
-### Header 3
+## 项目：
 
-- Bulleted
-- List
+* 基于道路使用者的轨迹预测算法（中国科大-蔚来联合项目）
+* 车道线检测
 
-1. Numbered
-2. List
+* yolo v1-v5
 
-**Bold** and _Italic_ and `Code` text
+## Todo
 
-[Link](url) and ![Image](src)
-```
+- [x] git
+- [x] LaTex
+- [ ] docker
+- [ ] HTML
+- [ ] cmake
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 近万收藏考研经验帖
 
-### Jekyll Themes
+[数一英一408的400+心得](https://zhuanlan.zhihu.com/p/401034086)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mhhhaster/Mhhhaster.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[环科跨考计算机答疑整理](https://zhuanlan.zhihu.com/p/396699404)
 
-### Support or Contact
+[纯客观分析跨考计算机408的“十胜十败”](https://zhuanlan.zhihu.com/p/397615245)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 编程题库
+
+[浙大数据结构慕课答案(完结)](https://github.com/Mhhhaster/MOOC-DS-homework/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%B5%99%E5%A4%A7)
+
+[浙大机试题库PAT答案(完结)](https://github.com/Mhhhaster/PAT-test-Advanced)
+
+[力扣(每日更新)](https://github.com/Mhhhaster/myleetcode)
+
+## 个人笔记
+
+[PAT考前知识点梳理](https://blog.csdn.net/Mhhhaster/article/details/106748807?spm=1001.2014.3001.5501)
+
+[格式化输出的扩展应用](https://blog.csdn.net/Mhhhaster/article/details/105982360)
+
+[string、char*、char[]和const char*辨析](https://blog.csdn.net/Mhhhaster/article/details/105883299)

@@ -9,7 +9,7 @@
 
 ## 关于我
 
-22岁，是研一学生(将于2024年6月毕业), 目前就读于[中国科学技术大学](https://www.ustc.edu.cn/) [大数据学院 ](https://sds.ustc.edu.cn/)计算机技术专业。 在此之前, 我于2017年6月在 [天津大学](http://www.tju.edu.cn/) [环境科学与工程学院](http://tjusee.tju.edu.cn/) 环境科学专业获得了学士学位。
+22岁，是研一学生(将于2024年6月毕业), 目前就读于[中国科学技术大学](https://www.ustc.edu.cn/) [大数据学院 ](https://sds.ustc.edu.cn/)计算机技术专业。 在此之前, 我于2021年6月在 [天津大学](http://www.tju.edu.cn/) [环境科学与工程学院](http://tjusee.tju.edu.cn/) 环境科学专业获得了学士学位。
 
 我的研究兴趣主要包括: 轨迹预测，目标检测与图像分割，文本情感挖掘等。
 
@@ -22,11 +22,11 @@
 
 ## Todo
 
-- [x] git
+- [x] Git
 - [x] LaTex
-- [ ] docker
+- [ ] Docker
 - [ ] HTML
-- [ ] cmake
+- [ ] Cmake
 
 ## 近万收藏考研经验帖
 
@@ -50,4 +50,8 @@
 
 [格式化输出的扩展应用](https://blog.csdn.net/Mhhhaster/article/details/105982360)
 
-[string、char*、char[]和const char*辨析](https://blog.csdn.net/Mhhhaster/article/details/105883299)
+[string、char * 、char[]和const char * 辨析](https://blog.csdn.net/Mhhhaster/article/details/105883299)
+
+## 你这么厉害一定发了很多论文吧
+
+<img src="https://imgsa.baidu.com/%D4%C2%B9%E2%CB%AE%B3%C7/pic/item/26d12cb4ef3540228ad4b2b2.jpg" alt="img" style="zoom: 80%;" />
